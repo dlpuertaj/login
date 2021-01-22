@@ -1,4 +1,4 @@
-package com.co.dlp.login.appuser;
+package com.co.dlp.login.user;
 
 public enum UserRole {
     USER,

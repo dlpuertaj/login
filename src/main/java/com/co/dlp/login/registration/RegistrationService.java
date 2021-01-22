@@ -1,8 +1,8 @@
 package com.co.dlp.login.registration;
 
-import com.co.dlp.login.appuser.User;
-import com.co.dlp.login.appuser.UserRole;
-import com.co.dlp.login.appuser.UserService;
+import com.co.dlp.login.user.User;
+import com.co.dlp.login.user.UserRole;
+import com.co.dlp.login.user.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

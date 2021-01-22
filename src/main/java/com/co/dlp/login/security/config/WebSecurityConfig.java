@@ -1,6 +1,6 @@
 package com.co.dlp.login.security.config;
 
-import com.co.dlp.login.appuser.UserService;
+import com.co.dlp.login.user.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
