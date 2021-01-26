@@ -1,8 +1,8 @@
 package com.co.dlp.login.registration.token;
 
 import com.co.dlp.login.user.User;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import javax.persistence.*;
@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 
 @Getter
 @Setter
-@AllArgsConstructor
+@NoArgsConstructor
 @Entity
 public class ConfirmationToken {
 
